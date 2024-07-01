@@ -1,0 +1,3 @@
+- Old models and new models are set up in node mongoose
+- Create .env file with demo.env variables
+- View ScriptsOrder.md file and run in that order for new data models
